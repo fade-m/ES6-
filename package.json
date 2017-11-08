@@ -1,0 +1,14 @@
+{
+  "name": "es6",
+  "version": "1.0.0",
+  "description": "Learning ES6",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando Hernandez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
